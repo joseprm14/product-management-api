@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "boligrafo",
+        "price": 0.5
+    },
+    {
+        "id": 2,
+        "name": "lapicero",
+        "price": 0.2
+    },
+    {
+        "id": 3,
+        "name": "cuaderno",
+        "price": 3.5
+    },
+    {
+        "id": 4,
+        "name": "Folio",
+        "price": 0.05
+    }
+]
