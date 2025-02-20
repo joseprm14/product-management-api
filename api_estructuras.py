@@ -9,7 +9,6 @@ app = FastAPI()
 # Se definen los nombres de los ficheros con los datos
 path_products = 'productos.json'
 path_orders = 'pedidos.json'
-# TODO ID
 
 # Se define el modelo de los productos
 class Product(BaseModel):
